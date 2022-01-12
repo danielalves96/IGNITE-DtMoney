@@ -16,7 +16,7 @@
 </p>
 
 <div align="center">
-  <sub> Made with by
+  <sub> Made by
     <a href="https://github.com/LeonneBrito">Daniel Luiz Alves.
   </sub>
 </div>
